@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SmsmwfxE7mKZIuEThu15-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Invoices_Collection" vertex="1">
-          <mxGeometry height="280" width="250" x="1430" y="670" as="geometry">
+          <mxGeometry height="280" width="250" x="1410" y="660" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
